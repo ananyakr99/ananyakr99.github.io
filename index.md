@@ -17,26 +17,9 @@ For my capstone project in collaboration with US Ignite, I built a real-time dec
 
 [View code on GitHub](https://github.com/ananyakr99/Traffic-Prediction-US-Ignite/tree/156b04aa0b230395469b1bed54300d4f353352aa/US_Ignite_Fall_2022)
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
 ---
 
-### Category Name 2
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
 
 
 

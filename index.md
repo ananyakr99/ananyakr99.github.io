@@ -5,9 +5,7 @@
 ### Road Safety Predictive Model for Ft. Carson Military Base 
 
 
-Built a real-time decision tree classification model for predicting the safety of roads at different times of the day in Ft. Carson, Colorado Springs. Utilized historical crash data, Waze traffic data, and weather forecasts of most specific roads to train the model, which was used to predict crashes in the next 24-72 hours and classify the roads into BRAG (Black, Red, Amber, Green) labels. Further optimized commute strategies for adverse weather by creating a map-based dashboard for visualization. This project significantly enhanced travel efficiency and aided the Commander Officer's decision-making for the safety of over 70,000 military personnel at Ft. Carson. 
-
-<img src="images/Picture9.png?raw=true" height="260" width="450" class="center" />
+Built a real-time decision tree classification model for predicting the safety of roads at different times of the day in Ft. Carson. Utilized historical crash data, Waze traffic data, and weather forecasts of most specific roads to train the model, which was used to predict crashes and road safety conditions in the next 24-72 hours. Further optimized commute strategies for adverse weather by creating a map-based dashboard for visualization. This project significantly enhanced travel efficiency and aided the Commander Officer's decision-making for the safety of over 70,000 military personnel at Ft. Carson. 
 
 <img src="images/Picture8.png?raw=true" height="200" width="250" style="float:left"/> <img src="images/Picture2.png?raw=true" height="200" width="250" />
 

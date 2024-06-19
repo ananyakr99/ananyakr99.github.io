@@ -5,7 +5,7 @@
 ### Road Safety Predictive Model for Ft. Carson Military Base 
 
 
-I built a real-time decision tree classification model for predicting the safety of roads leading up to Ft. Carson. Utilized historical crash data, Waze traffic data, and weather forecasts of most specific roads to train the model, which was used to predict crashes and road safety conditions for the next 24-72 hours. Creating a map-based dashboard further aided in the optimization of commute strategies. 
+Built a real-time decision tree classification model for predicting the safety of roads leading up to Ft. Carson. Utilized historical crash data, Waze traffic data, and weather forecasts of most specific roads to train the model, which was used to predict crashes and road safety conditions for the next 24-72 hours. Creating a map-based dashboard further aided in the optimization of commute strategies. 
 
 <img src="images/Picture8.png?raw=true" height="200" width="250" style="float:left"/> <img src="images/Picture2.png?raw=true" height="200" width="250" />
 

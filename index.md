@@ -8,9 +8,9 @@ Improved travel efficiency by leading a team of 6 graduate students to develop a
 
 <img src="images/Picture3.png?raw=true" height="200" width="250" style="float:left"/> <img src="images/Picture2.png?raw=true" height="200" width="250" />
 
-  <img src="images/Picture6.png?raw=true" height="275" width="400" class="center"/>  
+  <img src="images/Picture6.png?raw=true" height="275" width="380" class="center"/>  
 
-<img src="images/Picture7.png?raw=true" height="175" width="450" class="center" />
+  <img src="images/Picture7.png?raw=true" height="150" width="400" class="center" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 

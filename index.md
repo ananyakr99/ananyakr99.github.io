@@ -9,6 +9,7 @@ Built a real-time decision tree classification model for predicting the safety o
 
  
 <img src="images/Picture8.png?raw=true" height="200" width="250" style="float:left"/> <img src="images/Picture2.png?raw=true" height="200" width="250" />
+
 <img src="images/Picture11.png?raw=true"  />  
   
   <!-- <img src="images/Picture6.png?raw=true" height="310" width="450" class="center"/>  -->

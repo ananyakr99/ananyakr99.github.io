@@ -6,7 +6,7 @@
 
 Improved travel efficiency by leading a team of 6 graduate students to develop a predictive model using Python, forecasting road segment velocity and incidents, which also provided analytic recommendations on adverse weather response strategies. Enhanced decision-making for 70,000 military personnel by implementing advanced analytics and data modeling techniques using SQL and Python in a real-time ML model for travel efficiency to Ft. Carson base. Boosted cross-functional collaboration and communication by utilizing Agile methodologies and GitHub for version control and project management in the development of a real-time ML model for US Ignite. Optimized commute strategies for adverse weather by developing recommendations using Power BI and Excel for data visualization and analysis in a predictive model for road segment velocity and incidents.
 
-<img src="images/Picture3.png?raw=true" height="200" width="250" style="float:left"/> <img src="images/Picture2.png?raw=true" height="200" width="250" style="float:right"/>
+<img src="images/Picture3.png?raw=true" height="100" width="150" style="float:left"/> <img src="images/Picture2.png?raw=true" height="100" width="150" style="float:right"/>
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 

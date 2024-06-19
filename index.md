@@ -10,7 +10,7 @@ Improved travel efficiency by leading a team of 6 graduate students to develop a
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
 
-[View code on GitHub](https://github.com/ananyakr99/Traffic-Prediction-US-Ignite.git)
+[View code on GitHub](https://github.com/ananyakr99/Traffic-Prediction-US-Ignite/tree/156b04aa0b230395469b1bed54300d4f353352aa/US_Ignite_Fall_2022)
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

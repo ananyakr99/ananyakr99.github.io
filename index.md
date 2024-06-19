@@ -2,7 +2,15 @@
 
 ---
 
-### Category Name 1 
+### Traffic Predictive Model for Fort Carson Military Base
+
+Improved travel efficiency by leading a team of 6 graduate students to develop a predictive model using Python, forecasting road segment velocity and incidents, which also provided analytic recommendations on adverse weather response strategies. Enhanced decision-making for 70,000 military personnel by implementing advanced analytics and data modeling techniques using SQL and Python in a real-time ML model for travel efficiency to Ft. Carson base. Boosted cross-functional collaboration and communication by utilizing Agile methodologies and GitHub for version control and project management in the development of a real-time ML model for US Ignite. Optimized commute strategies for adverse weather by developing recommendations using Power BI and Excel for data visualization and analysis in a predictive model for road segment velocity and incidents.
+
+<img src="images/Picture3.png?raw=true" /> <img src="images/Picture3.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+
+[View code on GitHub](https://github.com/ananyakr99/Traffic-Prediction-US-Ignite.git)
 
 [Project 1 Title](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>

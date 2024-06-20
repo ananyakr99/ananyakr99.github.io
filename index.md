@@ -22,7 +22,7 @@ Built a real-time decision tree classification model for predicting the safety o
 
 ---
 
-### Ship Detection and Classification using Deep Learning and Neural Nets
+### Ship Detection and Classification using Deep Learning
 
 Worked on ship detection and classification from satellite images using deep learning techniques. Used a sample of the MARVEL dataset that contained 2,800 images across five maritime classes. Manually generated ground-truth images and after experimenting with RNN and Mask R-CNN algorithms, opted for YOLOv4 due to its efficiency and speed, achieving a mean avg. precision (mAP) of 0.82. mAP compares the ground-truth bounding box to the detected box. To improve the label classification accuracy, built a CNN classifier atop the YOLOv4 model, and achieved an overall accuracy of 73.5%.
 

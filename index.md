@@ -52,7 +52,7 @@ To combat the coronavirus pandemic in 2020, many countries including India, enfo
 
 Contributed to an open-source project, funded and managed by the Indian Institute of Technology, Bombay. My responsibilities included converting probabilistic and statistical problems into R code. The FOSSEE (Free/Libre and Open Source Software for Education) project promotes the use of open-source tools in academia and research. The FOSSEE project is part of the National Mission on Education through Information and Communication Technology (ICT), Ministry of Education (MoE), Government of India. 
 
-[![](https://img.shields.io/badge/R-white?logo=R)]
+[![](https://img.shields.io/badge/R-white?logo=R)](#)
 
 [View code on GitHub](https://github.com/ananyakr99/Internship_IIT-B/blob/71893d23614ebe339ce419e655a75ad34a1787ab/Internship%20Published%20Codes.pdf)
 

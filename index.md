@@ -1,5 +1,4 @@
-## Selected projects in data science, machine learning, and NLP
-
+## Selected projects in data science and machine learning
 ---
 
 ### Road Safety Predictive Model for Ft. Carson Military Base 
